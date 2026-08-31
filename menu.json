@@ -1,5 +1,14 @@
 {
     "page": "menu",
     "title": "Cafe Menu",
-    "categories": {}
+    "categories": {
+        "Menu": [
+            {
+                "item_id": 185,
+                "name": "TEST",
+                "description": "",
+                "price": 1
+            }
+        ]
+    }
 }
