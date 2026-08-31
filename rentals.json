@@ -1,0 +1,13 @@
+{
+    "page": "rentals",
+    "title": "Game Rentals",
+    "sections": {
+        "Games": [
+            {
+                "item_id": 11,
+                "name": "KOTH Box boardgame used",
+                "description": "KOTH cardboard boardgame kit. includes: 85- twosided cardboard tokens, 1- cardboard game board, 1- instruction pamphlet, 1- 2piece storage box. "
+            }
+        ]
+    }
+}
