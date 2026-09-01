@@ -1,5 +1,19 @@
 {
     "page": "events",
     "title": "Events",
-    "events": []
+    "events": [
+        {
+            "event_id": 1,
+            "title": "Admin TEST",
+            "date": "2026-08-31",
+            "start_time": "18:22",
+            "end_time": "18:23",
+            "location": "VaderDesk",
+            "short_description": "REMOTE - IT - PUSH - ASSESSMENT",
+            "description": "Test of the event push from OSPOS to website",
+            "price": 0,
+            "capacity": 0,
+            "registration_url": null
+        }
+    ]
 }
