@@ -2713,7 +2713,7 @@
                 "name": "MTG Commander Masters Set Booster Pack",
                 "description": "",
                 "price": 43,
-                "image": "images/catalog/items/item_16.jpg"
+                "image": "https://raw.githubusercontent.com/yankeevader/OTM/main/images/catalog/items/item_16.jpg?v=030679284f550fec"
             },
             {
                 "item_id": 119,
