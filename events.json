@@ -1,5 +1,19 @@
 {
     "page": "events",
     "title": "Events",
-    "events": []
+    "events": [
+        {
+            "event_id": 2,
+            "title": "IT Admin TEST",
+            "date": "2026-09-14",
+            "start_time": "20:33",
+            "end_time": "20:37",
+            "location": "VaderDesk",
+            "short_description": "REMOTE - IT - PUSH - ASSESSMENT",
+            "description": "Testing the new Events Layout",
+            "price": 0,
+            "capacity": 2,
+            "registration_url": null
+        }
+    ]
 }
