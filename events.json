@@ -14,6 +14,19 @@
             "price": 0,
             "capacity": 2,
             "registration_url": null
+        },
+        {
+            "event_id": 3,
+            "title": "Friday Night Draft",
+            "date": "2026-10-09",
+            "start_time": "18:00",
+            "end_time": "22:00",
+            "location": "Off The Map",
+            "short_description": "LOTR Tales of Middle earth Magic The Gathering Draft",
+            "description": "Its that time of week again! Join us for a Swiss Magic The Gathering Friday Night Magic Event. We're Planeswalking to Middle Earth, so remember where you placed your hobbits!",
+            "price": 35,
+            "capacity": 16,
+            "registration_url": null
         }
     ]
 }
