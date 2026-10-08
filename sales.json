@@ -1854,6 +1854,14 @@
         ],
         "Magic The Gathering": [
             {
+                "item_id": 977,
+                "sku": "",
+                "name": "2.98",
+                "description": "",
+                "price": 2.98,
+                "image": null
+            },
+            {
                 "item_id": 924,
                 "sku": "",
                 "name": "Arbor Elf",
@@ -1942,6 +1950,14 @@
                 "image": null
             },
             {
+                "item_id": 979,
+                "sku": "",
+                "name": "Bolas's Citadel",
+                "description": "",
+                "price": 8.67,
+                "image": null
+            },
+            {
                 "item_id": 314,
                 "sku": "",
                 "name": "Bolt Bend",
@@ -1955,6 +1971,30 @@
                 "name": "Bot Bashing Time",
                 "description": "",
                 "price": 0.1,
+                "image": null
+            },
+            {
+                "item_id": 975,
+                "sku": "",
+                "name": "Bounty Hunter",
+                "description": "",
+                "price": 5.01,
+                "image": null
+            },
+            {
+                "item_id": 962,
+                "sku": "",
+                "name": "Brainstorm",
+                "description": "",
+                "price": 2.66,
+                "image": null
+            },
+            {
+                "item_id": 961,
+                "sku": "",
+                "name": "Brainstorm (4th)",
+                "description": "",
+                "price": 2.01,
                 "image": null
             },
             {
@@ -2075,6 +2115,14 @@
                 "name": "Elvish Mystic",
                 "description": "",
                 "price": 1.57,
+                "image": null
+            },
+            {
+                "item_id": 981,
+                "sku": "",
+                "name": "Enlightened Tutor (AVA)",
+                "description": "",
+                "price": 40.1,
                 "image": null
             },
             {
@@ -2206,6 +2254,14 @@
                 "image": null
             },
             {
+                "item_id": 976,
+                "sku": "",
+                "name": "Gush",
+                "description": "",
+                "price": 3.31,
+                "image": null
+            },
+            {
                 "item_id": 926,
                 "sku": "",
                 "name": "Harmony of Nature",
@@ -2267,6 +2323,46 @@
                 "name": "Jennika's Technique",
                 "description": "",
                 "price": 0.13,
+                "image": null
+            },
+            {
+                "item_id": 966,
+                "sku": "195166103112",
+                "name": "Kamigawa Neon Dynasty Theme Booster Black",
+                "description": "",
+                "price": 35,
+                "image": null
+            },
+            {
+                "item_id": 965,
+                "sku": "195166103112",
+                "name": "Kamigawa Neon Dynasty Theme Booster Blue",
+                "description": "",
+                "price": 12.5,
+                "image": null
+            },
+            {
+                "item_id": 973,
+                "sku": "195166103112",
+                "name": "Kamigawa Neon Dynasty Theme Booster Ninjas",
+                "description": "",
+                "price": 45,
+                "image": null
+            },
+            {
+                "item_id": 964,
+                "sku": "195166103112",
+                "name": "Kamigawa Neon Dynasty Theme Booster Red",
+                "description": "",
+                "price": 20,
+                "image": null
+            },
+            {
+                "item_id": 967,
+                "sku": "195166103112",
+                "name": "Kamigawa Neon Dynasty Theme Booster White",
+                "description": "",
+                "price": 11.5,
                 "image": null
             },
             {
@@ -2350,6 +2446,14 @@
                 "image": null
             },
             {
+                "item_id": 978,
+                "sku": "195166204994",
+                "name": "LOTR Tales of Middle Earth Set Booster",
+                "description": "",
+                "price": 12,
+                "image": null
+            },
+            {
                 "item_id": 902,
                 "sku": "",
                 "name": "Louis Crypto Zoologist",
@@ -2379,6 +2483,22 @@
                 "name": "Maralen, Fae Ascendant",
                 "description": "",
                 "price": 2.13,
+                "image": null
+            },
+            {
+                "item_id": 971,
+                "sku": "195166313108",
+                "name": "Marvel Super Heroes Heroes United Scene Box",
+                "description": "",
+                "price": 23.5,
+                "image": null
+            },
+            {
+                "item_id": 972,
+                "sku": "195166313108",
+                "name": "Marvel Super Heroes Villains Unleashed Scene Box",
+                "description": "",
+                "price": 20.5,
                 "image": null
             },
             {
@@ -4934,6 +5054,30 @@
                 "image": null
             },
             {
+                "item_id": 968,
+                "sku": "195166121826",
+                "name": "New Capenna Theme Booster Brokers",
+                "description": "",
+                "price": 8,
+                "image": null
+            },
+            {
+                "item_id": 969,
+                "sku": "195166121826",
+                "name": "New Capenna Theme Booster Cabaretti",
+                "description": "",
+                "price": 8,
+                "image": null
+            },
+            {
+                "item_id": 970,
+                "sku": "195166121826",
+                "name": "New Capenna Theme Booster Riveteers",
+                "description": "",
+                "price": 8,
+                "image": null
+            },
+            {
                 "item_id": 847,
                 "sku": "",
                 "name": "One with The Multiverse",
@@ -5614,6 +5758,14 @@
                 "image": null
             },
             {
+                "item_id": 974,
+                "sku": "",
+                "name": "Stitch Together",
+                "description": "",
+                "price": 2.52,
+                "image": null
+            },
+            {
                 "item_id": 842,
                 "sku": "",
                 "name": "Stonehoof Chieftain",
@@ -5635,6 +5787,14 @@
                 "name": "Swamp",
                 "description": "",
                 "price": 1,
+                "image": null
+            },
+            {
+                "item_id": 980,
+                "sku": "",
+                "name": "Swiftfoot Boots (AVA)",
+                "description": "",
+                "price": 2.98,
                 "image": null
             },
             {
@@ -5723,6 +5883,14 @@
                 "name": "Tinker",
                 "description": "",
                 "price": 1.44,
+                "image": null
+            },
+            {
+                "item_id": 960,
+                "sku": "",
+                "name": "Tolarian winds",
+                "description": "",
+                "price": 1,
                 "image": null
             },
             {
